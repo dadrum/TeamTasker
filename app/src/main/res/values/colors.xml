@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#161e21</color>
+    <color name="colorPrimaryDark">#161e21</color>
+    <color name="colorAccent">#f44237</color>
+    <color name="colorSecondary">#28b6f8</color>
+
+
+    <color name="colorLightWorkSpace">#f4f4f4</color>
+
+    <color name="colorButtonLightOver">#e7e7e7</color>
+    <color name="colorSecondaryLightOver">#24a4df</color>
+
+    <color name="colorButtonTransp">#00ffffff</color>
+    <color name="colorButtonTranspOver">#0affffff</color>
+
+    <color name="colorTextWhite">#e9e9e9</color>
+    <color name="colorTextGray">#878e96</color>
+    <color name="colorTextDark">#161e21</color>
+
+    <color name="colorTaskNew">#7db346</color>
+    <color name="colorTaskAnswered">#fec106</color>
+    <color name="colorTaskExpired">#f44237</color>
+
+</resources>

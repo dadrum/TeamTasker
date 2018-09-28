@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TeamTasker</string>
+    <string name="logo">tt</string>
+    <string name="logo_description">Всё просто - создайте проект\nи принимайте по нему заявки</string>
+
+    <string name="rolepage_createproject">СОЗДАТЬ ПРОЕКТ</string>
+    <string name="rolepage_createproject_description">приём заявок и заданий от пользователей</string>
+    <string name="rolepage_joinproject">ПРИСОЕДИНИТЬСЯ</string>
+    <string name="rolepage_joinproject_description">к проекту для отправки заявок и заданий</string>
+
+    <string name="masterlogin_caption">ВВЕДИТЕ НОМЕР ПРОЕКТА НАД КОТОРЫМ\nВЫ РАБОТАЕТЕ ИЛИ СОЗДАЙТЕ НОВЫЙ ПРОЕКТ</string>
+    <string name="masterlogin_hint">Номер проекта</string>
+    <string name="masterlogin_but_enter">ВОЙТИ</string>
+    <string name="masterlogin_but_new">СОЗДАТЬ НОВЫЙ</string>
+
+
+    <!--transition objects-->
+    <!--<string name="trans_obj_logo">trans_obj_logo</string>
+    <string name="trans_obj_description1">trans_obj_description1</string>
+-->
+
+</resources>
